@@ -1,13 +1,14 @@
 @font-face {
- font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     src: url("../css/fonts/NotoSansKR-Black.otf")
 
 }
 
 
-.container{
+.container {
     background-color: cadetblue;
 }
+
 .title {
     color: black;
     font-family: 'Noto Sans TC', sans-serif;
@@ -16,7 +17,8 @@
     font-size: 42px;
     font-style: italic;
 }
-.table-align{
+
+.table-align {
     max-width: 1300px;
     margin: 0 auto;
     overflow: hidden;
@@ -25,8 +27,7 @@
 }
 
 
-
-.table-half{
+.table-half {
     border: 3px solid #000;
     background-color: silver;
     text-align: center;
